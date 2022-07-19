@@ -1,0 +1,67 @@
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.ChatForm.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.MainForm.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.ChatForm.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.MainForm.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.AddNewBuddyForm.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.exe
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.pdb
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.exe
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.pdb
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.exe
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.pdb
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.exe
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.pdb
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.AddNewBuddyForm.resources
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.OptionsForm.resources
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.FunMessageBox.resources
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Sounds\tetris.wav
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Patch History\Revisions.txt
+C:\Documents and Settings\James.Jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Sounds\Knock.wav
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.AboutBox1.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.exe.manifest
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.application
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.exe.manifest
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.application
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Patch History\Revisions.txt
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Sounds\Knock.wav
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Sounds\tetris.wav
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.exe.manifest
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Debug\Babble.application
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.FunMessageBox.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.OptionsForm.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.AboutBox1.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.ImageSelectionForm.resources
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.exe.manifest
+C:\Users\james\Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Babble.application
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Debug\Chat.ImageSelectionForm.resources
+D:\Chat\Chat\obj\Debug\Babble.exe
+D:\Chat\Chat\obj\Debug\Babble.pdb
+D:\Chat\Chat\bin\Debug\Patch History\Revisions.txt
+D:\Chat\Chat\bin\Debug\Sounds\Knock.wav
+D:\Chat\Chat\bin\Debug\Sounds\tetris.wav
+D:\Chat\Chat\bin\Debug\Babble.exe.manifest
+D:\Chat\Chat\bin\Debug\Babble.application
+D:\Chat\Chat\bin\Debug\Babble.exe
+D:\Chat\Chat\bin\Debug\Babble.pdb
+D:\Chat\Chat\obj\Debug\ResolveAssemblyReference.cache
+D:\Chat\Chat\obj\Debug\Chat.AddNewBuddyForm.resources
+D:\Chat\Chat\obj\Debug\Chat.ChatForm.resources
+D:\Chat\Chat\obj\Debug\Chat.FunMessageBox.resources
+D:\Chat\Chat\obj\Debug\Chat.MainForm.resources
+D:\Chat\Chat\obj\Debug\Chat.OptionsForm.resources
+D:\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Chat\Chat\obj\Debug\Chat.AboutBox1.resources
+D:\Chat\Chat\obj\Debug\Chat.ImageSelectionForm.resources
+D:\Chat\Chat\obj\Debug\GenerateResource.read.1.tlog
+D:\Chat\Chat\obj\Debug\GenerateResource.write.1.tlog
+D:\Chat\Chat\obj\Debug\Babble.exe.manifest
+D:\Chat\Chat\obj\Debug\Babble.application
+D:\Chat\Chat\bin\Debug\Babble.exe.config
+D:\Chat\Chat\obj\Debug\ResGen.read.1.tlog
+D:\Chat\Chat\obj\Debug\ResGen.write.1.tlog

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Chat">
+</Property><Property Name="Solution File" Value="D:\Chat\Chat.sln">
+</Property><Property Name="Date" Value="Thursday, 29 July 2010">
+</Property><Property Name="Time" Value="18:02 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="Chat" Source="Chat\Chat.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Chat" Source="Chat\Chat.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Chat.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Chat.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Chat" Source="Chat\Chat.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

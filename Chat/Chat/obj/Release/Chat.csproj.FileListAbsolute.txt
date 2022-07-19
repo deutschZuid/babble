@@ -1,0 +1,20 @@
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Release\Patch History\Revisions.txt
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Release\Sounds\Knock.wav
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Release\Sounds\tetris.wav
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Release\Babble.exe.manifest
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Release\Babble.application
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Release\Babble.exe
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\bin\Release\Babble.pdb
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.AddNewBuddyForm.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.ChatForm.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.FunMessageBox.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.MainForm.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.OptionsForm.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.Properties.Resources.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.AboutBox1.resources
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Chat.csproj.GenerateResource.Cache
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Babble.exe.manifest
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Babble.application
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Babble.exe
+C:\Documents and Settings\james.jiao\My Documents\Visual Studio 2008\Projects\Chat\Chat\obj\Release\Babble.pdb

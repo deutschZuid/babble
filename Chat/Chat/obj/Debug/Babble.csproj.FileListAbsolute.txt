@@ -1,0 +1,25 @@
+D:\Chat\Chat\bin\Debug\Patch History\Revisions.txt
+D:\Chat\Chat\bin\Debug\Sounds\Knock.wav
+D:\Chat\Chat\bin\Debug\Babble.exe.config
+D:\Chat\Chat\bin\Debug\Babble.exe.manifest
+D:\Chat\Chat\bin\Debug\Babble.application
+D:\Chat\Chat\bin\Debug\Babble.exe
+D:\Chat\Chat\bin\Debug\Babble.pdb
+D:\Chat\Chat\obj\Debug\ResolveAssemblyReference.cache
+D:\Chat\Chat\obj\Debug\Chat.AddNewBuddyForm.resources
+D:\Chat\Chat\obj\Debug\Chat.ChatForm.resources
+D:\Chat\Chat\obj\Debug\Chat.FunMessageBox.resources
+D:\Chat\Chat\obj\Debug\Chat.MainForm.resources
+D:\Chat\Chat\obj\Debug\Chat.OptionsForm.resources
+D:\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+D:\Chat\Chat\obj\Debug\Chat.AboutBox1.resources
+D:\Chat\Chat\obj\Debug\Chat.ImageSelectionForm.resources
+D:\Chat\Chat\obj\Debug\GenerateResource.read.1.tlog
+D:\Chat\Chat\obj\Debug\ResGen.read.1.tlog
+D:\Chat\Chat\obj\Debug\GenerateResource.write.1.tlog
+D:\Chat\Chat\obj\Debug\ResGen.write.1.tlog
+D:\Chat\Chat\obj\Debug\Babble.exe.manifest
+D:\Chat\Chat\obj\Debug\Babble.application
+D:\Chat\Chat\obj\Debug\Babble.exe
+D:\Chat\Chat\obj\Debug\Babble.pdb
+D:\Chat\Chat\obj\Debug\Chat.frmChatlogDisplay.resources
